@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.banglakeyboard</string>
+	<key>CFBundleName</key>
+	<string>Bangla Keyboard</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.0</string>
+	<key>KLInfo_Bangla - Jatiyo (National) Keyboard</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.banglakeyboard.bangla-jatiyo(national)keyboard</string>
+		<key>TISIntendedLanguage</key>
+		<string>bn-BD</string>
+	</dict>
+</dict>
+</plist>
